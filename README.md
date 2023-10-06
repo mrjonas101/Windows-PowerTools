@@ -1,5 +1,3 @@
-![image](https://github.com/mrjonas101/Windows-PowerTools/assets/146845360/4c8b0a02-592d-4d09-bda1-db39e8f8a0d6)# Microsoft PowerTools
-
 ![image](https://github.com/mrjonas101/Windows-PowerTools/assets/146845360/03189116-d6fa-4ee4-807e-f8ba8459ee11)
 
 
